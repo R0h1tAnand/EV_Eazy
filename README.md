@@ -75,10 +75,6 @@ The system includes sample damage images for testing purposes:
 
 💡 This damage assessment system significantly improves operational efficiency for rental companies while providing transparency and consistency for customers during the vehicle return process.
 
-## 📊 Screenshots
-
-![Damage Assessment Interface](https://via.placeholder.com/300x600?text=Damage+Assessment+UI)
-![Results Screen](https://via.placeholder.com/300x600?text=Results+Screen)
 
 ## 🤝 Contributing
 
