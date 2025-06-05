@@ -44,7 +44,7 @@ This confidence value determines the severity of the penalty applied to the rent
 ## 🌐 Server Configuration
 
 The application can be configured to connect to different server environments:
-- 🚀 Production server: http://12.10.5.97:5000/
+- 🚀 Production server: http://<hosted_ip_address>/
 - 🧪 Development/test servers: multiple options available in settings
 
 ## 🖼️ Sample Images
