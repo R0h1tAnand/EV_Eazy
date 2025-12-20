@@ -23,7 +23,7 @@
       "package": "com.codez.app",
       "config": {
         "googleMaps": {
-          "apiKey": "AIzaSyC7Q8om4vAFSp2jPWSFtFWnP34M2SG9dOA"
+          "apiKey": "REPLACE_WITH_GOOGLE_MAPS_ANDROID_API_KEY"
         }
       },
       "permissions": [
